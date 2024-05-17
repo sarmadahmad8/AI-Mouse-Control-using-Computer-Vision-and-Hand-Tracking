@@ -2,8 +2,8 @@
 
 Open INSTALLATION GUIDE.txt to see how to run the program.
 
-Made this project using mediapipe for hand tracking and autopy for the mouse control. Works quite accurately and mouse movement can be smoothened or made faster by changing the 'smoothen' variable.
-If Index and Middle fingers are being detected as closed then either move closer to webcam or increase the length condition in line 56.
+Made this project using mediapipe for hand tracking, OpenCV for computer vision, and autopy for the mouse control. Works quite accurately and mouse movement can be smoothened or made faster by changing the 'smoothen' variable.
+If Index and Middle fingers are being detected as closed then either move closer to webcam or increase the length condition in line 56 of 'AIVirtualPainter.py'.
 
 Mouse Control:
 
